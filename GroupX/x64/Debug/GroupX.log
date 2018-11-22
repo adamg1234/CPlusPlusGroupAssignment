@@ -1,0 +1,35 @@
+﻿  Weapon.cpp
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\weapon.cpp : warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+  Orc.cpp
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\orc.cpp(57): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\orc.cpp(131): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\orc.cpp(132): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+  Item.cpp
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\item.cpp : warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+  GameCharacter.cpp
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\gamecharacter.cpp(136): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\gamecharacter.cpp(369): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\gamecharacter.cpp(370): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\gamecharacter.cpp(371): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\gamecharacter.cpp(375): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\gamecharacter.cpp(383): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Cleric.cpp
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\cleric.cpp(45): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\cleric.cpp(116): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\cleric.cpp(117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\cleric.cpp(132): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Brawler.cpp
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\brawler.cpp(47): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\brawler.cpp(103): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\brawler.cpp(173): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\brawler.cpp(174): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  BlackWitch.cpp
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\blackwitch.cpp(52): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\blackwitch.cpp(92): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\blackwitch.cpp(130): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\blackwitch.cpp(131): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Armour.cpp
+c:\users\adam\desktop\c-groupassignment\groupx\groupx\armour.cpp : warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+  Generating Code...
+  GroupX.vcxproj -> C:\Users\Adam\Desktop\C-GroupAssignment\GroupX\x64\Debug\Group16.lib
